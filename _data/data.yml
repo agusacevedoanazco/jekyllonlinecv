@@ -26,7 +26,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 0.0.0.0
+    pdf: https://seafile.nitsuga.cf/f/3a4bb28759744932bf89/
 
     languages:
       - idiom: Español
@@ -82,7 +82,7 @@ experiences:
       company: Green Ingeniería y Consultoría, Concepción, Chile (Remoto)
       details: |
         LaLeLiLoLu.
-        
+
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -119,13 +119,18 @@ experiences:
 projects:
     title: Projects
     intro: >
+      Cardinal, en teum cardinal, in deum cardinal, descend to hell.
+      Oremus santifica in the night cardinal sin raining light, they call it cardinal sin, blinding light.
+
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: SARV
         link: "https://github.com/agusacevedoanazco/app_elo308.git"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive website template designed to help startups promote, market and sell their products.
+        drei vier, when the lights we sing amen and attack and we leave the storm of the wild, and we fight with god on our side, and we leave th storm and the wild
+        "
 
       - title: jekyllonlinecv
         link: "https://github.com/agusacevedoanazco/jekyllonlinecv.git"
