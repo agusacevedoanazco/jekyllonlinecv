@@ -35,7 +35,7 @@ p {
 
 .wrapper {
   display: grid;
-  grid-template-columns: repeat(10, 1fr);
+  grid-template-columns: repeat(12, 1fr);
   background: $theme-color;
   max-width: 1000px;
   margin: 0 auto;
@@ -44,7 +44,7 @@ p {
 }
 
 .sidebar-wrapper {
-  grid-column: span 3;
+  grid-column: span 4;
   order: 2;
   background: $theme-color;
   color: #fff;
@@ -59,7 +59,7 @@ p {
     color: #fff;
   }
   .name {
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 10px;
@@ -88,7 +88,7 @@ p {
     .fab,
     .far {
       margin-right: 5px;
-      font-size: 18px;
+      font-size: 16px;
       vertical-align: middle;
     }
     li {
@@ -160,7 +160,7 @@ p {
 }
 
 .main-wrapper {
-  grid-column: span 7;
+  grid-column: span 8;
   background: #fff;
   padding: 60px;
   .section-title {

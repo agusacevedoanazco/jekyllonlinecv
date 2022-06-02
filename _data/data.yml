@@ -3,60 +3,54 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Agustín Andrés Acevedo Añazco
+    tagline: Ingeniero Civil Electrónico, Computadores Informática
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: agusacevedoanazco@gmail(dot)com
+    phone: (+56) (nine) 96429192
+    citizenship: Valdivia, Chile
+    website: docs.nitsuga.cf #do not add http://
+    linkedin: agusacevedoanazco
+    # xing: alandoe
+    github: agusacevedoanazco
+    # telegram: # add your nickname without '@' sign
+    gitlab: agusacevedoanazco
+    bitbucket: agusacevedoanazco
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 0.0.0.0
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Español
+        level: Nativo
 
-      - idiom: French
-        level: Professional
+      - idiom: Inglés
+        level: Intermedio
 
-      - idiom: Spanish
-        level: Professional
+    # interests:
+    #   - item: HomeLabbing
+    #     link:
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+    #   - item: Powerlifting
+    #     link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
+#      Second paragraph if required.
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -81,9 +75,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Consultor de Tecnologías de Información y Comunicación
+      time: 2022
+      company: Green Ingeniería y Consultoría, Concepción (Remoto)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,9 +90,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Estudiante en Práctica de Ingeniería Civil Electrónica
+      time: 2021
+      company: Green Ingeniería y Consultoría, Concepción (Remoto)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,9 +101,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Estudiante en Práctica de Ingeniería Civil Electrónica
+      time: 2019
+      company: Heitmann Ingeniería y Asesoría Limitada, Quilpué
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
