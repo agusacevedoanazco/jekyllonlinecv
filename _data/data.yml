@@ -36,10 +36,10 @@ sidebar:
         level: Intermedio
 
     # interests:
-    #   - item: HomeLabbing
+    #   - item: Something i like 1
     #     link:
 
-    #   - item: Powerlifting
+    #   - item: Something i like 2
     #     link:
 
 career-profile:
@@ -77,7 +77,7 @@ education:
     #       - Bullet point
     #       - Bullet point
 experiences:
-    - role: Consultor de Tecnologías de Información y Comunicación
+    - role: Prestación de servicios de Tecnologías de Información y Comunicación
       time: 2022
       company: Green Ingeniería y Consultoría, Concepción, Chile (Remoto)
       details: |
@@ -109,13 +109,11 @@ experiences:
       time: 2019
       company: Heitmann Ingeniería y Asesoría Limitada, Quilpué, Chile
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          Desarrollo de aplicación móvil de gestión y control de las principales 
+          actividades de la organización, mediante el registro de fichas de trabajo. 
+          Se realiza el desarrollo de una aplicación móvil bajo un diseño entregado 
+          haciendo uso del entorno de desarrollo y framework Angular Ionic y el consumo 
+          de una API REST del sistema interno de gestión.
 projects:
     title: Projects
     intro: >
@@ -134,7 +132,9 @@ projects:
 
       - title: jekyllonlinecv
         link: "https://github.com/agusacevedoanazco/jekyllonlinecv.git"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: >
+          "Currículum Vitae en línea, haciendo uso del generador de páginas estáticas Jekyll, 
+          basado en el tema <a href="https://github.com/sharu725/online-cv.git">sharu725/online-cv</a>"
 
 # publications:
 #     title: Publications
