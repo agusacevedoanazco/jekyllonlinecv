@@ -126,9 +126,7 @@ projects:
     assignments:
       - title: SARV
         link: "https://github.com/agusacevedoanazco/app_elo308.git"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products.
-        drei vier, when the lights we sing amen and attack and we leave the storm of the wild, and we fight with god on our side, and we leave th storm and the wild
-        "
+        tagline: "Testing changes for gitlab repository"
 
       - title: jekyllonlinecv
         link: "https://github.com/agusacevedoanazco/jekyllonlinecv.git"
