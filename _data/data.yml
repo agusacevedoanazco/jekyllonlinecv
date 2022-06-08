@@ -26,7 +26,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://seafile.nitsuga.cf/f/3a4bb28759744932bf89/
+    pdf: localhost
 
     languages:
       - idiom: Español
