@@ -10,7 +10,7 @@ on:
   
   
 jobs:
-  Build package:
+  build_package:
     runs-on: ubuntu-latest
 
     steps:
