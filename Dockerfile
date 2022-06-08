@@ -4,6 +4,8 @@ WORKDIR /mnt
 
 COPY . /mnt/
 
+RUN mkdir _site
+
 RUN bundle install
 
 ENV JEKYLL_ENV=production
