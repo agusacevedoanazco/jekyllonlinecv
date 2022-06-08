@@ -12,10 +12,10 @@ sidebar:
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: agusacevedoanazco@gmail(dot)com
-    phone: (+56) (nine) 96429192
+    email: agusacevedoanazco@outlook.es
+    phone: (+56)(9)96429192
     citizenship: Valdivia, Chile
-    website: docs.nitsuga.cf #do not add http://
+    website: resume.nitsuga.cf #do not add http://
     linkedin: agusacevedoanazco
     # xing: alandoe
     github: agusacevedoanazco
@@ -45,8 +45,10 @@ sidebar:
 career-profile:
     title: Perfil
     summary: |
-      Here goes who am i (if i knew who am i)
-        - BuLleT PoInT
+      Ingeniero Civil Electrónico, mención en Computadores y especialización en sistemas de
+      información, redes de computadores y desarrollo de software. Mis áreas de interés son 
+      las redes de computadores, los sistemas de virtualización de software y contenerización y
+      el desarrollo e implementación de software.
 #      Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #      adipiscing elit. You can [download this free resume/CV template here]().
 #      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -98,13 +100,14 @@ experiences:
       time: 2021
       company: Green Ingeniería y Consultoría, Concepción, Chile (Remoto)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Desarrollo y mantención de sistema de control de horas para facilitar las administración
+        de recursos humanos en los proyectos de la organización. Se realizan mejoras en el sistema
+        en producción, agregando funcionalidades de métricas de productividad, mejoras de 
+        funcionalidades con errores de software y detección de problemas de arquitectura de software.
+          - El desarrollo se realiza bajo el stack LAMP, desplegado en un clúster de Kubernetes en 
+            un proveedor de servicios en la nube.
+          - Las funcionalidades son desarrolladas bajo el framework Laravel en su versión 5.6.
+          - Adicional se realizaron actividades de mesa de ayuda en el área de Tecnologías de Información y Comunicación.
     - role: Estudiante en Práctica de Ingeniería Civil Electrónica
       time: 2019
       company: Heitmann Ingeniería y Asesoría Limitada, Quilpué, Chile
@@ -115,24 +118,25 @@ experiences:
           haciendo uso del entorno de desarrollo y framework Angular Ionic y el consumo 
           de una API REST del sistema interno de gestión.
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
-      Cardinal, en teum cardinal, in deum cardinal, descend to hell.
-      Oremus santifica in the night cardinal sin raining light, they call it cardinal sin, blinding light.
 
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: SARV
+      - title: SARV, Proyecto de Memoria de Título
         link: "https://github.com/agusacevedoanazco/app_elo308.git"
-        tagline: "Testing changes for gitlab repository"
+        tagline: >
+          <br>"Desarrollo de sistema web para almacenamiento, administración y distribución de
+          video - Memoria de Titulación para optar al título de Ingeniero Civil en Electrónica, UTFSM, 
+          Enero 2022. <br> Implementación de un sistema de administración de videos, basado en la solución de software 
+          <a href="https://opencast.org/">Opencast</a>, mediante el desarrollo de una aplicación web para la administración y distribución de eventos de video 
+          denominado SARV (<b>S</b>istema de <b>A</b>dministración y <b>R</b>eproducción de <b>V</b>ideo) y 
+          la generación de analíticas de reproducción."
 
-      - title: jekyllonlinecv
+      - title: jekyllonlinecv, Resumen laboral
         link: "https://github.com/agusacevedoanazco/jekyllonlinecv.git"
         tagline: >
-          "Currículum Vitae en línea, haciendo uso del generador de páginas estáticas Jekyll, 
-          basado en el tema <a href="https://github.com/sharu725/online-cv.git">sharu725/online-cv</a>"
+          <br>"Resumen laboral (Curriculum Vitae) en línea, haciendo uso del generador de páginas estáticas <i>Jekyll</i>, 
+          basado en el tema <a href="https://github.com/sharu725/online-cv.git">sharu725/online-cv</a>."
 
 # publications:
 #     title: Publications
@@ -157,7 +161,7 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Habilidades &amp; Competencia
+    title: Habilidades &amp; Competencias
 
     toolset:
       - name: PHP & Laravel
