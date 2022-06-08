@@ -83,19 +83,28 @@ experiences:
       time: 2022
       company: Green Ingeniería y Consultoría, Concepción, Chile (Remoto)
       details: |
-        LaLeLiLoLu.
-
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Prestación de servicios en el área de TIC, a través del desarrollo de software en sistema 
+        de administración y asignación de recursos humanos en proyectos, agregando 
+        funcionalidades de control de propuestas para proyectos de clientes de la
+        organización, administración y mantención de sistemas de información correspondientes 
+        a servicios de orquestación de contenedores, bases de datos de servicios internos 
+        actualización de sistemas de control financiero y apoyo en actividades de soporte 
+        de mesa de ayuda.
+        <br>Durante el transcurso de las actividades se identifican problemas relacionados al 
+        software de control de horas en el cual se realizan las mejoras, presentando la necesidad 
+        de realizar una actualización del sistema y deprecar el software en uso, dado su alto coste 
+        de mantención. Se realiza el diseño preliminar del nuevo sistema de software por medio del 
+        proceso ICONIX de desarrollo de software; entregándose una propuesta de desarrollo de software, 
+        para su evaluación.
+          - Se utiliza Rancher como administrador del orquestador de contenedores Kubernetes desplegado 
+            en producción, para el cuál se realizaron actividades de mantención y administración.
+          - El desarrollo de software se realiza bajo el stack de desarrollo LAMP, haciendo uso del 
+            framework Laravel en su versión 5.6 y las librerias de frontend JQuery y Bootstrap 4.
+          - Dentro de las actividades de administración de sistemas se realiza la mantención de las 
+            bases de datos MySQL para los sistemas de almacenamiento remoto y software de control de horas, 
+            la actualización de los sistemas de información financieros y la propuesta de metodologías de 
+            despliegue de servicios y sistemas ad-hoc a las necesidades de la organización y arquitectura de
+            software de los servicios bajo premisa y en la nube utilizados. 
     - role: Estudiante en Práctica de Ingeniería Civil Electrónica
       time: 2021
       company: Green Ingeniería y Consultoría, Concepción, Chile (Remoto)
@@ -176,7 +185,7 @@ skills:
       - name: CI/CD
         level: 30%
 
-      - name: Linux
+      - name: MySQL
         level: 80%
 
       - name: C
