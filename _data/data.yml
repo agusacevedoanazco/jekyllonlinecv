@@ -12,8 +12,8 @@ sidebar:
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: agusacevedoanazco@outlook.es
-    phone: (+56)(9)96429192
+    email: agusacevedoanazco@gmail(dot)com
+    phone: (+56)(nine)96429192
     citizenship: Valdivia, Chile
     website: resume.nitsuga.cf #do not add http://
     linkedin: agusacevedoanazco
@@ -26,7 +26,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: localhost
+    pdf: https://seafile.nitsuga.cf/f/2e53a7f57f7d4d898c5a/
 
     languages:
       - idiom: Español
