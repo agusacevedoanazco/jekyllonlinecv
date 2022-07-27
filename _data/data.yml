@@ -26,7 +26,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://seafile.nitsuga.cf/f/2e53a7f57f7d4d898c5a/
+    pdf: https://nextcloud.nitsuga.cf/s/Qrd7LTo9rPKbYCW
 
     languages:
       - idiom: Español
@@ -109,7 +109,7 @@ experiences:
       time: 2021
       company: Green Ingeniería y Consultoría, Concepción, Chile (Remoto)
       details: |
-        Desarrollo y mantención de sistema de control de horas para facilitar las administración
+        Desarrollo y mantención de sistema de control de horas para facilitar la administración
         de recursos humanos en los proyectos de la organización. Se realizan mejoras en el sistema
         en producción, agregando funcionalidades de métricas de productividad, mejoras de 
         funcionalidades con errores de software y detección de problemas de arquitectura de software.
@@ -176,8 +176,8 @@ skills:
       - name: PHP & Laravel
         level: 95%
 
-      - name: Docker
-        level: 75%
+      - name: Docker y Kubernetes
+        level: 70%
 
       - name: Git
         level: 80%
@@ -185,20 +185,14 @@ skills:
       - name: CI/CD
         level: 30%
 
-      - name: MySQL
+      - name: Manejo de Base de Datos
         level: 80%
 
-      - name: C
+      - name: Servicios Cloud (Azure, AWS y Alibaba Cloud)
         level: 80%
-
-      - name: Kubernetes
-        level: 40%
-
+        
       - name: HTML5 & CSS
         level: 70%
-
-      - name: KVM-QEMU
-        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
